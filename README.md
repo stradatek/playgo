@@ -7,3 +7,9 @@ sbaki
 6
 7
 change from main
+
+```mermaid
+flowchart TD
+  A-->B
+```
+
